@@ -202,6 +202,12 @@ public class HolaMundo {
 
 3.Verás que la imagen aparece inmediatamente en tu hoja y el archivo se guarda solo dentro de tu carpeta `img`.
 
+ como puedo sacar ``` esos acentos 
+ alt Gr + G} ```
+
+![[Pasted image 20261021165730.png]]
+
+
 
 
 
