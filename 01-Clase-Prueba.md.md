@@ -131,6 +131,33 @@ Git
 
 ![[Pasted image 20261021164256.png]]
 
+¡Eso es! La **primera tarjeta** que te aparece arriba a la izquierda, la que se llama simplemente **`Git`** (Por Vinzent, con 3.3M de descargas) es la correcta.
+
+Sigue estos pasos sencillos:
+
+1.Haz clic en esa primera tarjeta **Git**.
+
+2.En la pantalla que se abre, haz clic en el botón **Instalar**.
+
+3.Cuando termine de descargar, ese mismo botón cambiará a **Activar**. Haz clic en **Activar**.
+
+Ajustes finales de sincronización automática
+
+Una vez activado:
+
+1.Vuelve a **Preferencias** (engranaje ⚙️) y abajo del todo en la barra lateral izquierda busca y haz clic en **Git** (debajo de _Opciones de complementos_).
+
+![[Pasted image 20261021164538.png]]
+
+¡Excelente! Ya estás en el panel de configuración de Git.   
+
+Para configurar los tiempos de guardado automático hacia tu GitHub, haz lo siguiente:
+
+1.Haz clic en la primera opción de la lista que se llama Automatic (Scheduled commit, pull, and push routines).   
+
+![[Pasted image 20261021164725.png]]
+![[Pasted image 20261021164817.png]]
+
 
 
 
