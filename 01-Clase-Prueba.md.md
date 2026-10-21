@@ -121,7 +121,17 @@ Inmediatamente después de hacer clic:
 
 ¡Excelente! Ya saliste del modo restringido correctamente.
 
-1.Ahora realiza estos sencillos pasos:
+Ahora realiza estos sencillos pasos:
+
+1.Haz clic en el botón **Buscar** que está a la derecha de _"Complementos creados por la comunidad"_.
+
+2.Escribe únicamente:
+![[Pasted image 20261021164140.png]]
+Git
+
+![[Pasted image 20261021164256.png]]
+
+
 
 
 
