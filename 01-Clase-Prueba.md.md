@@ -44,3 +44,21 @@ El siguiente paso es **descargar (clonar) ese repositorio en tu computadora** y 
 2.Entra a la carpeta donde te guste guardar tus proyectos o documentos (por ejemplo, escribe `cd Documentos` y presiona Enter).
 
 3.Copia y pega el siguiente comando para clonar tu repositorio recién creado:
+![[Pasted image 20261021153155.png]]
+git clone https://github.com/Yelanyels/apuntes-programacion.git
+
+Esto descargará la estructura de tu repositorio y creará una carpeta llamada `apuntes-programacion` en tu PC.
+
+![[Pasted image 20261021153420.png]]
+
+
+Aquí tienes los enlaces e información para obtener ambas aplicaciones antes de continuar:
+
+   Links de descarga e instalación
+   Obsidian (Programa para tomar notas):
+
+   **Sitio oficial de descarga:**  [https://obsidian.md/download](https://obsidian.md/download)
+   
+MkDocs (Generador de sitio web / Libro digital):
+
+
