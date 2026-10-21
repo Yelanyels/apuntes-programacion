@@ -33,9 +33,11 @@ Sigue estos pasos con calma y dime si lograste ver el archivo subido a tu GitHub
 1. En la primera captura (Imagen 1): ¡Ya se guardó solo!
    En la esquina superior derecha de Obsidian te apareció la notificación emergente:   
     Committed 1 file
-    Pull: Everything is up-to-date   
+    Pull: Everything is up-to-date  
+     
    Esto confirma que el complemento automático guardó tu archivo sin que tengas que presionar nada. Además, abajo a la derecha de la barra de estado se lee: Git: committed 1 file.   
-2. En la segunda y tercera captura (Imágenes 2 y 3): Por qué dice "No se encontraron comandos"
+1.  En la segunda y tercera captura (Imágenes 2 y 3): Por qué dice "No se encontraron comandos"
+
     Cuando presionas Ctrl + P, estás abriendo el buscador interno de Obsidian.En la Imagen 2, escribiste Git: Commit all changes and push.En la Imagen 3, escribiste Commit all changes and push.En las versiones recientes del plugin Git, ese comando largo se llama de forma ligeramente distinta o simplificada.Para ejecutarlo manualmente desde Ctrl + P, prueba escribir únicamente:PlaintextGit: Push
 o también:PlaintextGit: Commit
 Al escribir solo Git: verás la lista de todos los comandos de Git disponibles.Resumen:No necesitas preocuparte por usar el buscador de comandos a diario. Como vimos en la primera imagen, Obsidian ya guarda y sincroniza automáticamente cada 10 minutos en segundo plano hacia GitHub.   
