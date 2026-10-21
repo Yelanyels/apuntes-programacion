@@ -1,4 +1,4 @@
-# Mi primera clase de programación
+# Mi Creación paso a paso
 
 Esta es una prueba de mi cuaderno digital sincronizado con GitHub.
 
@@ -12,32 +12,18 @@ public class HolaMundo {
 
 ![[Pasted image 20261021141720.png]]
 
---- ### Paso 3: Probar la inserción de imágenes 
-1. En tu computadora, toma una captura de pantalla de cualquier cosa (presionando `Impr Pant` o la combinación `Windows + Shift + S`). 
-2. Regresa a tu nota en Obsidian y presiona **`Ctrl + V`** (pegar). 
-3. Verás que la imagen aparece inmediatamente en tu hoja y el archivo se guarda solo dentro de tu carpeta `img`. 
- 
---- ### Paso 4: Subir los cambios a GitHub inmediatamente 
-No necesitamos esperar 10 minutos para ver si funciona. Haremos el guardado manual de prueba: 
-1. Presiona las teclas **`Ctrl + P`** en tu teclado (se abrirá una barra de búsqueda en la parte superior de Obsidian). 
-2. Escribe en esa barra: `Git: Commit all changes and push`. 
-3. Presiona la tecla **Enter**. 
- 
---- ### Paso 5: Verificar en GitHub 
-1. Abre tu navegador web e ingresa a tu repositorio: `[https://github.com/Yelanyels/apuntes-programacion](https://github.com/Yelanyels/apuntes-programacion)` 
-2. Recarga la página (presionando `F5`). 
- 
-¡Ahí verás tu archivo `01-Clase-Prueba.md` y la carpeta `img` con tu imagen completamente guardados! 
-Sigue estos pasos con calma y dime si lograste ver el archivo subido a tu GitHub.
+¡Excelente elección! La combinación de **Obsidian + MkDocs** te dará lo mejor de ambos mundos: un entorno supercómodo para tomar notas a diario con imágenes y código, y la generación automática de un libro/sitio web profesional alojado gratis en tu GitHub.
 
-1. En la primera captura (Imagen 1): ¡Ya se guardó solo!
-   En la esquina superior derecha de Obsidian te apareció la notificación emergente:   
-    Committed 1 file
-    Pull: Everything is up-to-date  
-     
-   Esto confirma que el complemento automático guardó tu archivo sin que tengas que presionar nada. Además, abajo a la derecha de la barra de estado se lee: Git: committed 1 file.   
-1.  En la segunda y tercera captura (Imágenes 2 y 3): Por qué dice "No se encontraron comandos"
+Vamos a configurarlo **paso a paso**. En esta **Fase 1** dejaremos listo tu repositorio en GitHub y tu cuaderno en Obsidian con sincronización automática.
 
-    Cuando presionas Ctrl + P, estás abriendo el buscador interno de Obsidian.En la Imagen 2, escribiste Git: Commit all changes and push.En la Imagen 3, escribiste Commit all changes and push.En las versiones recientes del plugin Git, ese comando largo se llama de forma ligeramente distinta o simplificada.Para ejecutarlo manualmente desde Ctrl + P, prueba escribir únicamente:PlaintextGit: Push
-o también:PlaintextGit: Commit
-Al escribir solo Git: verás la lista de todos los comandos de Git disponibles.Resumen:No necesitas preocuparte por usar el buscador de comandos a diario. Como vimos en la primera imagen, Obsidian ya guarda y sincroniza automáticamente cada 10 minutos en segundo plano hacia GitHub.   
+Paso 1: Crear el repositorio en GitHub
+
+1.Entra a tu cuenta de **GitHub** y haz clic en el botón verde **"New"** (o en el ícono `+` arriba a la derecha > **New repository**).
+2.Llena los siguientes datos:
+ - **Repository name:** `apuntes-programacion` (o el nombre que prefieras para tu cuaderno/libro).
+    
+- **Description:** (Opcional) _Mi cuaderno de notas y libro digital de clases de programación._
+    
+- **Public / Private:** Elige **Public** (si quieres publicarlo luego con MkDocs) o **Private** (puedes cambiarlo después).
+    
+- **Initialize this repository with:** Marca la casilla **Add a README file**.
