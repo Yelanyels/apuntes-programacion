@@ -31,17 +31,16 @@ Paso 1: Crear el repositorio en GitHub
 
 3.Haz clic en **Create repository**.
 
-Paso 2: Clonar el repositorio en tu computadora
+![[Pasted image 20261021152926.png]]
 
-1.Abre tu terminal (Git Bash, CMD o la terminal de tu sistema) en tu computadora.
+¡Excelente! Veo que tu repositorio **`apuntes-programacion`** ya está creado perfectamente en tu GitHub.
 
-2.Navega hasta la carpeta donde guardas tus proyectos (por ejemplo, `Documentos` o `Proyectos`):
-![[Pasted image 20261021152311.png]]
-cd Documentos
+El siguiente paso es **descargar (clonar) ese repositorio en tu computadora** y conectarlo con **Obsidian** para empezar a escribir tus clases. Vamos con ello paso a paso:
 
-3.Clona el repositorio descargándolo en tu PC:
-![[Pasted image 20261021152351.png]]
-git clone https://github.com/Yelanyels/apuntes-programacion.git
+**Paso 2: Clonar el repositorio en tu computadora**
 
-4.Ahora tendrás una carpeta llamada `apuntes-programacion` en tu equipo.
+1.Abre la terminal de tu computadora (puede ser Git Bash, CMD o PowerShell).
 
+2.Entra a la carpeta donde te guste guardar tus proyectos o documentos (por ejemplo, escribe `cd Documentos` y presiona Enter).
+
+3.Copia y pega el siguiente comando para clonar tu repositorio recién creado:
