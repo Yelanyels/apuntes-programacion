@@ -94,6 +94,17 @@ En esa casilla que remarcaste en rojo (**Ubicación predeterminada para los arch
 
 Haz clic donde dice **"Carpeta de la bóveda"** y selecciona la opción: **"En la carpeta especificada a continuación"**.
 
+Al seleccionar eso, aparecerá un nuevo campo de texto debajo llamado **"Ruta de la carpeta de archivos adjuntos"**. Ahí escribe:
+![[Pasted image 20261021154741.png]]
+img
+(Asegúrate de haber creado primero la carpeta `img` en el panel izquierdo de Obsidian para que la reconozca).
+
+![[Pasted image 20261021154839.png]]
+
+
+
+
+
 
  
 
