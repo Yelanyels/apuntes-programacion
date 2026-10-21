@@ -19,6 +19,7 @@ Vamos a configurarlo **paso a paso**. En esta **Fase 1** dejaremos listo tu repo
 Paso 1: Crear el repositorio en GitHub
 
 1.Entra a tu cuenta de **GitHub** y haz clic en el botón verde **"New"** (o en el ícono `+` arriba a la derecha > **New repository**).
+
 2.Llena los siguientes datos:
  - **Repository name:** `apuntes-programacion` (o el nombre que prefieras para tu cuaderno/libro).
     
@@ -27,3 +28,20 @@ Paso 1: Crear el repositorio en GitHub
 - **Public / Private:** Elige **Public** (si quieres publicarlo luego con MkDocs) o **Private** (puedes cambiarlo después).
     
 - **Initialize this repository with:** Marca la casilla **Add a README file**.
+
+3.Haz clic en **Create repository**.
+
+Paso 2: Clonar el repositorio en tu computadora
+
+1.Abre tu terminal (Git Bash, CMD o la terminal de tu sistema) en tu computadora.
+
+2.Navega hasta la carpeta donde guardas tus proyectos (por ejemplo, `Documentos` o `Proyectos`):
+![[Pasted image 20261021152311.png]]
+cd Documentos
+
+3.Clona el repositorio descargándolo en tu PC:
+![[Pasted image 20261021152351.png]]
+git clone https://github.com/Yelanyels/apuntes-programacion.git
+
+4.Ahora tendrás una carpeta llamada `apuntes-programacion` en tu equipo.
+
