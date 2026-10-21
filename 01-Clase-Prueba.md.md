@@ -109,6 +109,22 @@ Ahora activaremos la sincronización automática con tu repositorio de GitHub:
 
 ![[Pasted image 20261021163200.png]]
 
+Haz clic en el botón morado que dice **"Salir del modo restringido"**.
+
+Eso desactivará la protección inicial y desbloqueará la tienda de complementos de Obsidian.
+
+Inmediatamente después de hacer clic:
+
+1.Te aparecerá un botón llamado **"Explorar"** (o _Browse_). Haz clic en él.
+
+![[Pasted image 20261021163549.png]]
+
+¡Excelente! Ya saliste del modo restringido correctamente.
+
+1.Ahora realiza estos sencillos pasos:
+
+
+
 
 
 
