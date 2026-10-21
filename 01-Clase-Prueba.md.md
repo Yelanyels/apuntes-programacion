@@ -101,6 +101,14 @@ img
 
 ![[Pasted image 20261021154839.png]]
 
+Paso siguiente: Activar e instalar el plugin Obsidian Git
+
+Ahora activaremos la sincronización automática con tu repositorio de GitHub:
+
+1.En el menú lateral izquierdo de esa misma ventana de Preferencias, haz clic en **Complementos comunitarios**.
+
+![[Pasted image 20261021163200.png]]
+
 
 
 
