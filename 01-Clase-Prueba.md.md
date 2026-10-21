@@ -10,6 +10,7 @@ public class HolaMundo {
 }
 ```
 
+![[Pasted image 20261021141720.png]]
 --- ### Paso 3: Probar la inserción de imágenes 
 1. En tu computadora, toma una captura de pantalla de cualquier cosa (presionando `Impr Pant` o la combinación `Windows + Shift + S`). 
 2. Regresa a tu nota en Obsidian y presiona **`Ctrl + V`** (pegar). 
