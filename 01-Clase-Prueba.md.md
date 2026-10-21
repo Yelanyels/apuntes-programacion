@@ -159,6 +159,50 @@ Para configurar los tiempos de guardado automático hacia tu GitHub, haz lo sigu
 ![[Pasted image 20261021164817.png]]
 
 
+Paso 1: Configurar los tiempos automáticos (En la pantalla donde estás)
+
+En la ventana que tienes abierta en tu pantalla:
+
+1.Busca la opción que dice **`Auto commit-and-sync interval (minutes)`**.
+
+- Borra el `0` y escribe: **`10`**. _(Esto guardará y subirá tus notas a GitHub automáticamente cada 10 minutos)_.
+
+2.Un poco más abajo, busca la opción que dice **`Auto pull interval (minutes)`**.
+
+Borra el 0 y escribe: 10. (Esto descargará cualquier cambio nuevo si abres Obsidian en otra PC).   
+
+3.Ahora cierra esa ventana de Preferencias haciendo clic en la X que está arriba a la derecha.   
+
+Paso 2: Crear tu primera nota/clase de prueba
+
+1.En la parte izquierda de Obsidian, haz clic derecho en un espacio vacío del panel de archivos y selecciona **Nueva nota** (o presiona `Ctrl + N`).
+
+2.Ponle de nombre: `01-Clase-Prueba.md`.
+
+3.Haz clic dentro del área blanca de la nota y escribe exactamente esto:
+
+![[Pasted image 20261021165208.png]]
+# Mi primera clase de programación
+
+Esta es una prueba de mi cuaderno digital sincronizado con GitHub.
+
+```java
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("¡Hola GitHub!");
+    }
+}
+```
+
+### Paso 3: Probar la inserción de imágenes
+
+1.En tu computadora, toma una captura de pantalla de cualquier cosa (presionando `Impr Pant` o la combinación `Windows + Shift + S`).
+
+2.Regresa a tu nota en Obsidian y presiona **`Ctrl + V`** (pegar).
+
+3.Verás que la imagen aparece inmediatamente en tu hoja y el archivo se guarda solo dentro de tu carpeta `img`.
+
+
 
 
 
