@@ -76,5 +76,24 @@ Es la opción recomendada porque se instala de forma estándar en tu perfil de u
 
 Simplemente haz clic en el botón **"Siguiente >"** para continuar con la instalación.
 
+**Una vez dentro de Obsidian:***
 
+- Haz clic derecho en el panel izquierdo y crea una nueva carpeta llamada **`img`**.
+    
+- Ve a la **Configuración de Obsidian** (el engranaje ⚙️ abajo a la izquierda).
+    
+- Entra a **Files and links** (Archivos y enlaces).
+   
+- En el menú lateral, entra a **Archivos y enlaces** (Files and links).
+
+- Busca la opción **Ubicación predeterminada para nuevos adjuntos** (Default location for new attachments) y cámbiala a:
+
+![[Pasted image 20261021154623.png]]
+
+En esa casilla que remarcaste en rojo (**Ubicación predeterminada para los archivos adjuntos nuevos**), debes hacer lo siguiente:
+
+Haz clic donde dice **"Carpeta de la bóveda"** y selecciona la opción: **"En la carpeta especificada a continuación"**.
+
+
+ 
 
