@@ -61,4 +61,20 @@ Aquí tienes los enlaces e información para obtener ambas aplicaciones antes de
    
 MkDocs (Generador de sitio web / Libro digital):
 
+MkDocs no es un programa instalable tradicional con ejecutable `.exe`, sino una herramienta que se instala mediante comandos de Python.
+
+Por ahora **no necesitas instalar MkDocs**, ya que primero estructuraremos tus apuntes e imágenes dentro de Obsidian. Cuando tus notas estén creadas y sincronizadas en GitHub, usaremos un comando sencillo de Python o las propias acciones automáticas de GitHub (_GitHub Actions_) para publicar el libro digital.
+
+Una vez que hayas descargado e instalado **Obsidian**, puedes proceder con los pasos que mencionaste:
+
+1.**Abre Obsidian** en tu computadora.
+![[Pasted image 20261021154031.png]]
+
+Puedes dejar seleccionada la opción que ya tienes marcada: **"Solo para mí. (ACER)"**.
+
+Es la opción recomendada porque se instala de forma estándar en tu perfil de usuario y no te pedirá permisos de administrador para futuras actualizaciones.
+
+Simplemente haz clic en el botón **"Siguiente >"** para continuar con la instalación.
+
+
 
