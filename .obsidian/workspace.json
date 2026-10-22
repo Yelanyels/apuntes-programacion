@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plantillas/Plantilla Seccion Texto.md",
+                "file": "plantillas/Plantila 02-prueba-diagramas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla Seccion Texto"
+              "title": "Plantila 02-prueba-diagramas"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.5
   },
   "right": {
     "id": "d9334656abd3be88",
@@ -192,6 +192,9 @@
   },
   "active": "b58efe17fbf760bb",
   "lastOpenFiles": [
+    "plantillas/Plantilla Diagrama Entidad Relacion.md",
+    "plantillas/Plantila 02-prueba-diagramas.md",
+    "plantillas/Plantilla Diagrama Flujo.md",
     "plantillas/Plantilla Seccion Texto.md",
     "plantillas/Plantilla Encabezado Tema.md",
     "plantillas/Plantilla Tarjeta azul.md.md",
