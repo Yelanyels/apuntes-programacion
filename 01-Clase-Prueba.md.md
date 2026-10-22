@@ -343,5 +343,21 @@ La forma más directa y práctica para tener tus apuntes en Android es usando **
 Paso 2: Crear la bóveda en el teléfono
 
 1.Al abrir Obsidian por primera vez, selecciona la opción **"Create new vault"** (Crear nueva bóveda).
+![[Pasted image 20261022120138.png]]
+¡Perfecto! Esa pantalla se refiere al servicio de pago propio de Obsidian (Obsidian Sync). Como nosotros estamos usando **GitHub gratis** para sincronizar todo, simplemente presiona el botón morado:
 
-2..
+2.Ponle exactamente el mismo nombre: **`apuntes-programacion`**.
+![[Pasted image 20261022120303.png]]
+¡Perfecto! Ahí estás creando la bóveda. Sigue estos pasos exactos en esa pantalla:
+
+Paso a paso:
+.**Nombre de la bóveda:** Haz clic donde dice _Mi bóveda_ y escribe exactamente:
+![[Pasted image 20261022120413.png]]
+apuntes-programacion
+
+.**Ubicación de la bóveda:** Deja seleccionada la primera opción marcada en morado: **`Almacenamiento del dispositivo`** _(Recomendado)_.
+
+
+
+3.Elige una carpeta en el almacenamiento interno de tu teléfono y presiona **Crear**.
+
