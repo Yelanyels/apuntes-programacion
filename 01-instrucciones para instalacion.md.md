@@ -28,6 +28,7 @@ Paso 1: Crear el repositorio en GitHub
 - **Public / Private:** Elige **Public** (si quieres publicarlo luego con MkDocs) o **Private** (puedes cambiarlo después).
     
 - **Initialize this repository with:** Marca la casilla **Add a README file**.
+---
 
 3.Haz clic en **Create repository**.
 
