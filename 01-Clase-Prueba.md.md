@@ -207,11 +207,30 @@ public class HolaMundo {
 
 ![[Pasted image 20261021165730.png]]
 
-![[Pasted image 20261022070313.png]]
+Conexión: 
 
+![[Pasted image 20261022070313.png]]
+![[Pasted image 20261022070446.png]]
+![[Pasted image 20261022070409.png]]
 En las imágenes que enviaste hay dos cosas importantes sucediendo:
 
-1.
+1.En Obsidian (Imagen 2): En la barra de búsqueda de comandos (Ctrl + P), escribiste el texto entre acentos graves (`Git: Commit...`). Cuando buscas un comando, no debes incluir las comillas/acentos graves.   
+
+2.El error de Git y tu GitHub (Imágenes 1 y 3): El error fatal: ambiguous argument 'origin/main' y la pantalla inicial de GitHub indican que tu repositorio en GitHub está completamente vacío (aún no se ha realizado el primer envío o initial commit a la rama main).   
+
+Paso 1: Hacer el envío inicial desde la terminal (Solo se hace una vez)
+
+1.En la barra de tareas de tu pantalla (abajo), haz clic en la ventana negra/azul que dice **`MINGW64:/c/Us...`** (o abre Git Bash/PowerShell en la carpeta de tu proyecto).
+
+![[Pasted image 20261022070736.png]]
+
+¡Ahí está el detalle! Viendo la imagen, estás parado en la carpeta contenedora Cuadernos y Libros de Programacion, pero el repositorio de Git que clonaste está dentro de la subcarpeta apuntes-programacion.   
+
+Para solucionarlo, debes entrar a la subcarpeta ejecutando los siguientes comandos en esa misma ventana de Git Bash:   
+
+Paso 1: Entrar a la subcarpeta del proyecto
+
+
 
 
 
