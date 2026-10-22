@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "65250906283440e7",
+        "id": "8300045b157d2d93",
         "type": "tabs",
         "children": [
           {
-            "id": "b58efe17fbf760bb",
+            "id": "4e52a3ba13f04a92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plantillas/Plantila 02-prueba-diagramas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Plantila 02-prueba-diagramas"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -190,10 +186,10 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "b58efe17fbf760bb",
+  "active": "4e52a3ba13f04a92",
   "lastOpenFiles": [
-    "plantillas/Plantilla Diagrama Entidad Relacion.md",
     "plantillas/Plantila 02-prueba-diagramas.md",
+    "plantillas/Plantilla Diagrama Entidad Relacion.md",
     "plantillas/Plantilla Diagrama Flujo.md",
     "plantillas/Plantilla Seccion Texto.md",
     "plantillas/Plantilla Encabezado Tema.md",
