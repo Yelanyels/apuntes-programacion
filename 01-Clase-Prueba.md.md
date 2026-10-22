@@ -510,4 +510,55 @@ Para evitar conflictos de archivos (como que se sobreescriban notas) y mantener 
 
 💻 1. Cuando terminas de escribir en la Laptop
 
+Antes de suspender o apagar tu laptop:
+
+1.Presiona las teclas **`Ctrl + P`** en Obsidian para abrir la paleta de comandos.
+
+2.Escribe y ejecuta: **`Git: Commit-and-sync`**.
+
+3._(Opcional)_ Si te da flojera presionar las teclas, recuerda que el complemento guarda y sube tus cambios solo cada 10 minutos automáticamente.
+
+**Resultado:** Tus notas, códigos e imágenes ya están a salvo en GitHub.
+
+📱 2. Cuando abres Obsidian en tu Celular
+
+Cuando quieras revisar o agregar apuntes desde tu teléfono:
+
+1.**Al abrir la app:** Abre la paleta de comandos (deslizando desde arriba o tocando el icono `>_`) y ejecuta:
+![[Pasted image 20261022123715.png]]
+Git: Pull
+_(Esto descarga todo lo nuevo que escribiste en la laptop)_.
+
+2.**Escribe tus apuntes:** Crea notas, edita códigos o agrega texto con normalidad.
+
+3.**Al terminar en el celular:** Abre la paleta de comandos y ejecuta:
+![[Pasted image 20261022123813.png]]
+Git: Commit-and-sync
+
+_(Esto sube tus apuntes del teléfono hacia GitHub)_.
+
+💻 3. De vuelta en la Laptop
+
+Cuando te vuelvas a sentar frente a la computadora:
+
+1.Abre Obsidian y presiona **`Ctrl + P`**.
+
+2.Escribe y ejecuta:
+![[Pasted image 20261022123922.png]]
+Git: Pull
+
+3.¡Listo! Todo lo que redactaste desde tu teléfono aparecerá inmediatamente en la pantalla de tu computadora.
+
+💡 Regla de oro para recordar fácil:
+
+°**Antes de empezar a escribir en cualquier dispositivo:** Haces un **`Pull`** (para traer lo más reciente).
+°**Al terminar de escribir en cualquier dispositivo:** Haces un **`Commit-and-sync`** (para subir tus cambios).
+
+¡Tu cuaderno digital multitarea en tiempo real ya está al 100%!
+
+
+
+
+
+
 
