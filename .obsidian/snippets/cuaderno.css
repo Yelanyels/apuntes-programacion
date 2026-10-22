@@ -1,0 +1,18 @@
+/* Fondo estilo hoja de cuaderno a cuadritos */
+.markdown-source-view.mod-cm6 .cm-scroller,
+.markdown-preview-view {
+  background-color: #fdfbf7 !important;
+  background-image: 
+    linear-gradient(to right, rgba(200, 200, 200, 0.25) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(200, 200, 200, 0.25) 1px, transparent 1px) !important;
+  background-size: 24px 24px !important;
+  color: #1a1a1a !important;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Margen izquierdo rojo estilo hoja de libreta */
+.markdown-source-view.mod-cm6 .cm-sizer,
+.markdown-preview-view {
+  border-left: 2px solid rgba(230, 80, 80, 0.5) !important;
+  padding-left: 25px !important;
+}
