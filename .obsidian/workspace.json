@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc4b895efd03a98",
+        "id": "7b264a4f7365f4e6",
         "type": "tabs",
         "children": [
           {
-            "id": "fb1b0a557073dd52",
+            "id": "9692c8dc3ef81e1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "01-instrucciones para instalacion.md"
             }
-          },
-          {
-            "id": "ae6979d1d73f673b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin título"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,9 +190,10 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "ae6979d1d73f673b",
+  "active": "9692c8dc3ef81e1a",
   "lastOpenFiles": [
     "01-instrucciones para instalacion.md.md",
+    "img/Sin título 2026-10-22 14.40.25.excalidraw.md",
     "Sin título.md",
     "img/Pasted image 20261022123922.png",
     "img/Pasted image 20261022123813.png",
