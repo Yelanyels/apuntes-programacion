@@ -229,6 +229,29 @@ Paso 1: Hacer el envío inicial desde la terminal (Solo se hace una vez)
 Para solucionarlo, debes entrar a la subcarpeta ejecutando los siguientes comandos en esa misma ventana de Git Bash:   
 
 Paso 1: Entrar a la subcarpeta del proyecto
+Copia y pega este comando y presiona **Enter**:
+
+![[Pasted image 20261022070950.png]]
+cd apuntes-programacion
+
+(Verás que la ruta amarilla de la terminal cambiará para incluir `/apuntes-programacion` al final).
+
+Paso 2: Subir tus archivos a GitHub
+Ahora sí, ejecuta estos comandos uno por uno (presionando **Enter** después de cada uno):
+
+1.Agregar los archivos:
+![[Pasted image 20261022071251.png]]
+git add .
+
+2.Crear el punto de guardado:
+![[Pasted image 20261022071327.png]]
+git commit -m "primer commit"
+
+![[Pasted image 20261022071410.png]]
+
+¡Excelente! Ya entraste a la carpeta correcta (`apuntes-programacion`) y la terminal reconoce la rama `(main)`.
+
+El mensaje que ves indica que los cambios ya se confirmaron localmente, pero falta vincular y subir la rama a GitHub.
 
 
 
