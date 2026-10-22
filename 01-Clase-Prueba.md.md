@@ -173,7 +173,7 @@ Borra el 0 y escribe: 10. (Esto descargará cualquier cambio nuevo si abres Obsi
 
 3.Ahora cierra esa ventana de Preferencias haciendo clic en la X que está arriba a la derecha.   
 
-Paso 2: Crear tu primera nota/clase de prueba
+**Paso 2: Crear tu primera nota/clase de prueba
 
 1.En la parte izquierda de Obsidian, haz clic derecho en un espacio vacío del panel de archivos y selecciona **Nueva nota** (o presiona `Ctrl + N`).
 
@@ -207,7 +207,11 @@ public class HolaMundo {
 
 ![[Pasted image 20261021165730.png]]
 
+![[Pasted image 20261022070313.png]]
 
+En las imágenes que enviaste hay dos cosas importantes sucediendo:
+
+1.
 
 
 
