@@ -4,7 +4,23 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "T"
+      "key": "5"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
     }
   ]
 }
