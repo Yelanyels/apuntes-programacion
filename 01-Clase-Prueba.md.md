@@ -281,7 +281,28 @@ Tu cuaderno digital ya está completamente operativo:
 
 ![[Pasted image 20261022071939.png]]
 
+1. En la primera captura (Imagen 1): ¡Ya se guardó solo!
+En la esquina superior derecha de Obsidian te apareció la notificación emergente:   
 
+Committed 1 file
+Pull: Everything is up-to-date 
+
+Esto confirma que el complemento automático guardó tu archivo sin que tengas que presionar nada. Además, abajo a la derecha de la barra de estado se lee:
+
+***AUTOGUARDADO:***
+
+Para ejecutarlo manualmente desde **`Ctrl + P`**, prueba escribir **únicamente**:
+![[Pasted image 20261022072305.png]]
+Git: Push
+![[Pasted image 20261022072336.png]]
+
+Explicación de los mensajes:
+
+1.En la primera imagen (`No commits to push`): Ese mensaje aparece porque el complemento **ya había guardado (_committed_) previamente tus cambios** de forma automática. Por eso no había nada nuevo pendiente solo para enviar (_push_).
+
+también:
+![[Pasted image 20261022072456.png]]
+Git: Commit
 
 
 
