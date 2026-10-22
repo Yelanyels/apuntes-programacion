@@ -11,10 +11,14 @@
             "id": "db5ed1f159f003aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "plantillas/Plantilla Resumen.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Plantilla Resumen"
             }
           }
         ]
@@ -188,12 +192,16 @@
   },
   "active": "db5ed1f159f003aa",
   "lastOpenFiles": [
+    "plantillas/Plantilla Tarea.md",
+    "plantillas/Plantilla Resumen.md",
+    "plantillas/Plantilla Tarjeta azul.md.md",
+    "plantillas/Plantilla Procedimiento.md",
+    "plantillas/Plantilla Base de Datos.md",
     "plantillas/Plantilla Concepto.md",
     "plantillas/Plantilla Exito.md",
     "plantillas/Plantilla Error.md",
     "01-instrucciones para instalacion.md.md",
     "plantillas/Plantilla Codigo.md",
-    "plantillas/Plantilla Tarjeta azul.md.md",
     "plantillas",
     "img/Sin título 2026-10-22 14.40.25.excalidraw.md",
     "img/Pasted image 20261022123922.png",
