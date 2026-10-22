@@ -460,3 +460,19 @@ Git: Clone an existing remote repository
 ![[Pasted image 20261022122048.png]]
 ![[Pasted image 20261022122109.png]]
 
+¡Excelente! Viendo tu segunda captura de pantalla, la opción exacta está justo ahí.
+
+Sigue estos 3 pasos para terminar la descarga:
+
+Paso 1: Seleccionar el comando de clonación
+
+En esa lista de la segunda imagen, desplázate un poco y toca la opción:
+
+👉 Git: Clone an existing remote repo   
+
+Paso 2: Ingresar la URL de tu repositorio
+
+Se abrirá una cajita arriba. Pega exactamente este enlace y dale a aceptar/Enter:
+![[Pasted image 20261022122958.png]]
+https://github.com/-------------/apuntes-programacion.git
+
