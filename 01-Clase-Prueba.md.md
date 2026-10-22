@@ -456,4 +456,7 @@ Pasos para descargar tu repositorio:
 
 2.Escribe y selecciona el comando:
 ![[Pasted image 20261022122017.png]]
+Git: Clone an existing remote repository
+![[Pasted image 20261022122048.png]]
+![[Pasted image 20261022122109.png]]
 
