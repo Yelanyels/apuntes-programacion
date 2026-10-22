@@ -330,8 +330,9 @@ Para continuar tomando tus apuntes desde tu teléfono manteniendo **todo perfect
 
 2.Busca e instala la aplicación oficial de **Obsidian**.
 
-2. Configurar la sincronización en el móvil
+1. Configurar la sincronización en el móvil
+Para vincular la misma bóveda de GitHub en tu celular, tienes **dos alternativas sencillas**:
 
-
+ Usando la app GitHUB (Recomendada y más estable)
  
 
