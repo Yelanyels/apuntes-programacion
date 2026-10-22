@@ -11,10 +11,14 @@
             "id": "4e52a3ba13f04a92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "plantillas/Plantilla Exito.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Plantilla Exito"
             }
           }
         ]
@@ -188,16 +192,16 @@
   },
   "active": "4e52a3ba13f04a92",
   "lastOpenFiles": [
-    "plantillas/Plantila 02-prueba-diagramas.md",
+    "plantillas/Plantilla Resumen.md",
     "plantillas/Plantilla Diagrama Entidad Relacion.md",
+    "plantillas/Plantilla Comparativa.md",
+    "plantillas/Plantila 02-prueba-diagramas.md",
     "plantillas/Plantilla Diagrama Flujo.md",
     "plantillas/Plantilla Seccion Texto.md",
     "plantillas/Plantilla Encabezado Tema.md",
     "plantillas/Plantilla Tarjeta azul.md.md",
-    "plantillas/Plantilla Resumen.md",
     "plantillas/Plantilla Funcion Metodo.md",
     "plantillas/Plantilla Error.md",
-    "plantillas/Plantilla Comparativa.md",
     "plantillas/Plantilla Base de Datos.md",
     "plantillas/Plantilla Terminal.md",
     "plantillas/Plantilla API REST.md",
