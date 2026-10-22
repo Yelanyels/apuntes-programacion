@@ -397,3 +397,24 @@ Paso 1: Abrir la configuración del Plugin
 
 Paso 2: Configurar tu usuario y repositorio
 
+1.En la configuración de Git, busca la sección  **Identity** (o _Identidad_):
+
+- En **Author name** escribe tu nombre de usuario de GitHub: `Yelanyels`
+    
+- En **Author email** escribe el correo que usas en GitHub.
+![[Pasted image 20261022121120.png]]
+
+¡Vas excelente! En esa ventana emergente (**Añadir secreto**) es precisamente donde debes guardar tu **Personal Access Token (PAT)** de GitHub.
+
+Completa los dos campos de la siguiente manera:
+
+Paso 1: Llenar la ventana "Añadir secreto"
+
+1.**ID:** Escribe un nombre simple (solo minúsculas y guiones), por ejemplo:
+![[Pasted image 20261022121250.png]]
+token-github
+
+2.**Secreto:** Pega aquí el **Personal Access Token (PAT)** que generaste en GitHub (la clave larga que empieza con `ghp_...`).
+
+(Nota: Si aún no has generado el token en GitHub, abre el navegador de tu celular, entra a [github.com/settings/tokens](https://github.com/settings/tokens), crea un token clásico marcado con la casilla **repo** y copia el código resultantes para pegarlo en el campo **Secreto**).
+
