@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Clase-Prueba.md.md",
+                "file": "01-instrucciones para instalacion.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Clase-Prueba.md"
+              "title": "01-instrucciones para instalacion.md"
             }
           }
         ]
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03652015060f02ad",
+  "active": "d731d9a51cb49aba",
   "lastOpenFiles": [
     "img/Pasted image 20261022123922.png",
     "img/Pasted image 20261022123813.png",
@@ -202,7 +202,7 @@
     "img/Pasted image 20261022122048.png",
     "img/Pasted image 20261022122017.png",
     "img/Pasted image 20261022121519.png",
-    "01-Clase-Prueba.md.md",
+    "01-instrucciones para instalacion.md.md",
     "img"
   ]
 }
