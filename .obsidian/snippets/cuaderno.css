@@ -1,118 +1,23 @@
 /* ========================================================
-   CUADERNO REAL ALINEADO (SIN AFECTAR LA INTERFAZ)
+   CUADERNO CUADRICULADO SEGURO (ESTÁNDAR COMUNITARIO)
    ======================================================== */
 
-/* 1. Fondo de mesa de trabajo oscura SOLO en el editor */
-.workspace-leaf-content[data-type="markdown"] .view-content {
-  background-color: #1a1c23 !important;
-}
-
-/* 2. La Hoja Cuadriculada A4 aislada en el visor */
-.workspace-leaf-content[data-type="markdown"] .cm-sizer,
-.workspace-leaf-content[data-type="markdown"] .markdown-preview-section {
-  max-width: 820px !important;
-  margin: 30px auto !important;
-  background-color: #ffffff !important;
-  
-  /* Micro-cuadrícula azulina exacta de 20px x 20px */
+/* Fondo de cuadrícula fina aplicado únicamente al área de notas (Sin bloquear escritura) */
+.markdown-rendered,
+.cm-content,
+.is-live-preview .cm-embed-block {
+  background-color: #fcfbf9 !important;
   background-image: 
-    linear-gradient(to right, rgba(120, 160, 210, 0.15) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(120, 160, 210, 0.15) 1px, transparent 1px) !important;
+    linear-gradient(to right, rgba(100, 140, 200, 0.12) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(100, 140, 200, 0.12) 1px, transparent 1px) !important;
   background-size: 20px 20px !important;
-  
-  /* Bordes de hoja y sombra 3D */
-  border-radius: 4px 12px 12px 4px !important;
-  border: 1px solid #d0d5dd !important;
-  box-shadow: 
-    0 15px 35px rgba(0, 0, 0, 0.5),
-    0 5px 15px rgba(0, 0, 0, 0.25) !important;
-  
-  /* Espaciado interno: 75px a la izquierda para los aros y huecos */
-  padding: 40px 45px 50px 75px !important;
-  position: relative !important;
-  color: #101828 !important;
+  color: #1a1a1a !important;
 }
 
-/* 3. PERFORACIONES CIRCULARES EN EL PAPEL */
-.workspace-leaf-content[data-type="markdown"] .cm-sizer::after,
-.workspace-leaf-content[data-type="markdown"] .markdown-preview-section::after {
-  content: "" !important;
-  position: absolute !important;
-  top: 25px !important;
-  bottom: 25px !important;
-  left: 20px !important;
-  width: 12px !important;
-  
-  /* Perforaciones circulares de papel */
-  background: repeating-linear-gradient(
-    to bottom,
-    transparent 0px,
-    transparent 12px,
-    #1a1c23 12px,
-    #1a1c23 22px,
-    transparent 22px,
-    transparent 36px
-  ) !important;
-  border-radius: 50% !important;
-  box-shadow: inset 1px 1px 2px rgba(0,0,0,0.8) !important;
-  z-index: 10 !important;
-}
-
-/* 4. ANILLADO METÁLICO CIRCULAR 3D */
-.workspace-leaf-content[data-type="markdown"] .cm-sizer::before,
-.workspace-leaf-content[data-type="markdown"] .markdown-preview-section::before {
-  content: "" !important;
-  position: absolute !important;
-  top: 20px !important;
-  bottom: 20px !important;
-  left: -14px !important;
-  width: 42px !important;
-  
-  /* Aros con brillo metálico */
-  background: repeating-linear-gradient(
-    to bottom,
-    transparent 0px,
-    transparent 12px,
-    #212529 12px,
-    #8f959e 15px,
-    #111315 18px,
-    transparent 18px,
-    transparent 36px
-  ) !important;
-  
-  filter: drop-shadow(-3px 3px 3px rgba(0,0,0,0.6)) !important;
-  z-index: 20 !important;
-}
-
-/* 5. ALINEACIÓN EXACTA DE TEXTO CON LA CUADRÍCULA (20px) */
-.workspace-leaf-content[data-type="markdown"] .cm-line,
-.workspace-leaf-content[data-type="markdown"] .markdown-preview-section p,
-.workspace-leaf-content[data-type="markdown"] .markdown-preview-section li {
-  line-height: 20px !important;
-  font-size: 14.5px !important;
-  margin-top: 0 !important;
-  margin-bottom: 20px !important;
-  font-family: 'Segoe UI', system-ui, sans-serif !important;
-}
-
-/* Encabezados ajustados a la rejilla */
-.workspace-leaf-content[data-type="markdown"] .cm-header,
-.workspace-leaf-content[data-type="markdown"] h1,
-.workspace-leaf-content[data-type="markdown"] h2,
-.workspace-leaf-content[data-type="markdown"] h3 {
-  line-height: 40px !important;
-  margin-top: 20px !important;
-  margin-bottom: 20px !important;
-}
-
-/* 6. CORTE DE HOJA A4 LIMPIO (Al escribir '---') */
-.workspace-leaf-content[data-type="markdown"] hr {
-  border: none !important;
-  height: 45px !important;
-  margin: 40px -45px 40px -75px !important;
-  background-color: #1a1c23 !important;
-  box-shadow: 
-    inset 0 8px 12px -4px rgba(0, 0, 0, 0.7),
-    inset 0 -8px 12px -4px rgba(0, 0, 0, 0.7) !important;
-  position: relative !important;
+/* Tipografía de lectura fluida y natural */
+.markdown-rendered p, 
+.cm-contentContainer {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif !important;
+  font-size: 15px !important;
+  line-height: 24px !important;
 }
