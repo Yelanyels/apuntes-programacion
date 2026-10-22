@@ -1,10 +1,5 @@
-hjfdbdbghf
-dfgbdvbcvncvnm
-
-}xgnzdfbbx
-
-zcfvbzdb
-}
+> [!NOTE] 📌 Título de tu bloque
+> Escribe aquí tu información, concepto o código...
 
 > [!NOTE] Paso 1: Configurar el entorno
 > Aquí puedes escribir tu texto, tus pasos o tu código y el tema lo convertirá automáticamente en una tarjeta con diseño profesional.
