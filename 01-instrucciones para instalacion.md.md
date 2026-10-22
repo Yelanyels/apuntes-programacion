@@ -557,6 +557,9 @@ Git: Pull
 ¡Tu cuaderno digital multitarea en tiempo real ya está al 100%!
 
 
+> [!NOTE] 📌 Título de tu bloque
+> Escribe aquí tu información, concepto o código...
+
 
 
 
