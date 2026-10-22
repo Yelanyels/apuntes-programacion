@@ -320,6 +320,18 @@ Resumen para el uso diario:
 
 ¡Tu entorno de apuntes de programación ya está listo y funcionando al 100%!
 
+***PARA INSTALAR EN EL CELULAR
+
+Para continuar tomando tus apuntes desde tu teléfono manteniendo **todo perfectamente sincronizado** con tu computadora y GitHub, el procedimiento es muy sencillo:
+
+1. Descargar las aplicaciones en tu celular
+
+1.Abre la tienda de aplicaciones (**Play Store** en Android o **App Store** en iPhone).
+
+2.Busca e instala la aplicación oficial de **Obsidian**.
+
+2. Configurar la sincronización en el móvil
+
 
  
 
