@@ -253,10 +253,33 @@ git commit -m "primer commit"
 
 El mensaje que ves indica que los cambios ya se confirmaron localmente, pero falta vincular y subir la rama a GitHub.
 
+Solo ejecuta estas **dos líneas finales** en esa misma terminal (una por una):
 
+Paso 1: Establecer la rama principal
+Copia y pega este comando y presiona **Enter**:
+![[Pasted image 20261022071523.png]]
+git branch -M main
 
+Paso 2: Subir todo a GitHub
+Copia y pega este comando y presiona **Enter**:
+![[Pasted image 20261022071556.png]]
+git push -u origin main
 
+![[Pasted image 20261022071706.png]]
 
+¡Excelente! ¡Lo lograste con éxito!
+
+En la pantalla de la izquierda se ve claramente en tu navegador que GitHub ya recibió tus archivos (01-Clase-Prueba.md, la carpeta de imágenes y tu configuración), y en la terminal de la derecha se confirma que el push se completó al 100% sin errores.   
+
+Tu cuaderno digital ya está completamente operativo:
+
+**Localmente:** Escribes tus notas, códigos y pegas imágenes en Obsidian de forma rápida y cómoda.
+
+**Respaldo automático:** Gracias al plugin de Git que configuramos, tus apuntes se guardarán y subirán a GitHub solos cada 10 minutos.
+
+**Manual:** Si en algún momento quieres forzar un guardado inmediato antes de cerrar la laptop, solo presionas **`Ctrl + P`**, escribes `Git: Commit all changes and push` y listo.
+
+![[Pasted image 20261022071939.png]]
 
 
 
