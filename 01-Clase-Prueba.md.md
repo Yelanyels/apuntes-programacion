@@ -476,3 +476,38 @@ Se abrirá una cajita arriba. Pega exactamente este enlace y dale a aceptar/Ente
 ![[Pasted image 20261022122958.png]]
 https://github.com/-------------/apuntes-programacion.git
 
+![[Pasted image 20261022123049.png]]
+
+¡Perfecto! En esa pantalla el plugin te está preguntando **dónde quieres guardar los archivos dentro de la bóveda**.
+
+Simplemente selecciona la opción que aparece arriba en la lista:
+
+👉 **`Vault Root`**
+
+![[Pasted image 20261022123157.png]]
+
+Ese mensaje te advierte que la carpeta .obsidian local (la configuración de tu celular) podría entrar en conflicto con la carpeta .obsidian que viene subida desde GitHub.   
+
+Para clonar correctamente todo el contenido sin problemas, elige la segunda opción:
+
+👉 **`DELETE ALL YOUR LOCAL CONFIG AND PLUGINS`**
+
+![[Pasted image 20261022123248.png]]
+
+¡Vas por el último paso! En esa casilla te pregunta la profundidad de clonación ("Specify depth of clone...").   
+
+Simplemente **no escribas nada** y presiona la tecla **Enter / Ir** (el botón con la flecha o esquina del teclado abajo a la derecha).
+
+¿Por qué dejarlo vacío?
+
+°Al dejar el campo vacío, el plugin hará una clonación completa (_full clone_) de todo el historial de tus apuntes e imágenes desde GitHub.
+
+¡En cuanto presiones **Enter**, comenzará a descargar tus archivos y tendrás tu cuaderno listo en el celular!
+
+¡Excelente trabajo! Has logrado configurar con éxito un sistema de sincronización profesional, seguro y totalmente gratuito entre tu computadora y tu celular.
+
+Para evitar conflictos de archivos (como que se sobreescriban notas) y mantener todo alineado, solo debes seguir esta sencilla **rutina de 2 pasos**:
+
+💻 1. Cuando terminas de escribir en la Laptop
+
+
