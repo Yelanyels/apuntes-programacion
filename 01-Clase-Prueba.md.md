@@ -418,3 +418,42 @@ token-github
 
 (Nota: Si aún no has generado el token en GitHub, abre el navegador de tu celular, entra a [github.com/settings/tokens](https://github.com/settings/tokens), crea un token clásico marcado con la casilla **repo** y copia el código resultantes para pegarlo en el campo **Secreto**).
 
+![[Pasted image 20261022121519.png]]
+
+¡Perfecto! Estás en el lugar exacto en GitHub.
+
+En la lista desplegable que te acaba de aparecer, selecciona la opción:
+
+👉 **Generar nuevo token (clásico)**
+
+Pasos rápidos para configurar el token:
+
+1.**Note (Nota):** Escribe un nombre para reconocerlo, por ejemplo: `Obsidian Celular`.
+
+2.**Expiration (Expiración):** Puedes dejarlo en `30 days` o cambiarlo a `No expiration` (Sin expiración) para no tener que actualizarlo después.
+
+3.**Select scopes (Seleccionar ámbitos):** Marca la primera casilla que dice **`repo`** (esto marcará automáticamente todas las casillas internas de repositorios).
+
+4.Desplázate hasta el final de la página y pulsa el botón verde **Generate token** (Generar token).
+
+¡Muy importante al finalizar!
+
+GitHub te mostrará un código largo en verde que empieza con **`ghp_...`**.
+
+1.Toca el icono de copiar al lado de esa clave.
+
+2.Regresa a Obsidian en tu celular e ingresa a la ventana Añadir secreto que teníamos abierta.   
+
+3.En ID escribe: token-github   
+
+4.En Secreto pega la clave ghp_... que acabas de copiar.   
+
+5.Dale a **Guardar**.
+
+Pasos para descargar tu repositorio:
+
+1.Desliza desde arriba o toca el icono de la **Paleta de Comandos** (el símbolo `>_` o de búsqueda).
+
+2.Escribe y selecciona el comando:
+![[Pasted image 20261022122017.png]]
+
