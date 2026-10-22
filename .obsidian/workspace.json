@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "01-instrucciones para instalacion.md"
             }
+          },
+          {
+            "id": "12f83f1c9927c3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-instrucciones.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-instrucciones.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,11 +205,11 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "9692c8dc3ef81e1a",
+  "active": "12f83f1c9927c3f6",
   "lastOpenFiles": [
     "01-instrucciones para instalacion.md.md",
+    "01-instrucciones.md.md",
     "img/Sin título 2026-10-22 14.40.25.excalidraw.md",
-    "Sin título.md",
     "img/Pasted image 20261022123922.png",
     "img/Pasted image 20261022123813.png",
     "img/Pasted image 20261022123715.png",
