@@ -331,8 +331,17 @@ Para continuar tomando tus apuntes desde tu teléfono manteniendo **todo perfect
 2.Busca e instala la aplicación oficial de **Obsidian**.
 
 1. Configurar la sincronización en el móvil
-Para vincular la misma bóveda de GitHub en tu celular, tienes **dos alternativas sencillas**:
+Para vincular la misma bóveda de GitHub en tu celular.
 
  Usando la app GitHUB (Recomendada y más estable)
- 
+ ![[Pasted image 20261022115721.png]]
 
+¡Perfecto! Veo en tu captura que tienes Android y que ya tienes la aplicación oficial de **GitHub** instalada. No necesitas pagar ni instalar aplicaciones adicionales.
+
+La forma más directa y práctica para tener tus apuntes en Android es usando **Obsidian** directo con su complemento de Git, exactamente igual a como lo configuramos en tu laptop.
+
+Paso 2: Crear la bóveda en el teléfono
+
+1.Al abrir Obsidian por primera vez, selecciona la opción **"Create new vault"** (Crear nueva bóveda).
+
+2..
