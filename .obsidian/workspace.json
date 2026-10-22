@@ -186,10 +186,11 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "d731d9a51cb49aba",
+  "active": "03652015060f02ad",
   "lastOpenFiles": [
     "img/Pasted image 20261022123922.png",
     "img/Pasted image 20261022123813.png",
