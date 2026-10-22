@@ -357,7 +357,43 @@ apuntes-programacion
 
 .**Ubicación de la bóveda:** Deja seleccionada la primera opción marcada en morado: **`Almacenamiento del dispositivo`** _(Recomendado)_.
 
-
+.Presiona el botón morado grande abajo: **`Crear una bóveda`**
 
 3.Elige una carpeta en el almacenamiento interno de tu teléfono y presiona **Crear**.
+
+¡Excelente! Ahora vamos a instalar el plugin **Git** dentro de la app para conectar tu repositorio.
+
+Sigue estos sencillos pasos en la pantalla de tu celular:
+
+Paso 1: Ir a los Ajustes
+
+1.En la pantalla principal de Obsidian, busca el icono del engranaje **⚙️ (Ajustes)**. _(Suele estar abajo a la izquierda o deslizando el menú lateral izquierdo)._
+
+Paso 2: Activar Complementos Comunitarios
+
+1.En el menú de Ajustes, desplázate hacia abajo y toca en **Complementos comunitarios** (_Community plugins_).
+
+2.Toca el botón **Activar complementos comunitarios** (_Turn on community plugins_).
+
+Paso 3: Buscar e Instalar Git
+
+1.Toca en el botón **Explorar** (_Browse_).
+
+2.En la barra de búsqueda escribe: `Git`
+
+3.Selecciona el plugin llamado **Git** (hecho por _Vinzent_).
+
+4.Toca en **Instalar** (_Install_) y, en cuanto termine, toca en **Activar** (_Enable_).
+
+¡Genial! Ahora solo nos falta conectar la app con tu cuenta de GitHub para que descargue tus apuntes.
+
+Sigue estos pasos dentro de Obsidian en tu celular:
+
+Paso 1: Abrir la configuración del Plugin
+
+1.Entra nuevamente a **Ajustes ⚙️**.
+
+2.Desplázate hacia el final del menú del lado izquierdo hasta la sección **Opciones de complementos** y toca en **Git**.
+
+Paso 2: Configurar tu usuario y repositorio
 
