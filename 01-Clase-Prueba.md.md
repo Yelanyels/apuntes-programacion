@@ -303,8 +303,22 @@ Explicación de los mensajes:
 también:
 ![[Pasted image 20261022072456.png]]
 Git: Commit
+Al escribir solo **`Git:`** verás la lista de todos los comandos de Git disponibles.
 
+![[Pasted image 20261022072540.png]]
 
+Explicación de los mensajes:
+
+1.En la segunda imagen (Lista de comandos de Git: Commit):
+Si alguna vez quieres forzar un guardado y envío inmediato manualmente en un solo paso, la opción que debes elegir de esa lista es:   👉 Git: Commit-and-sync
+
+Resumen para el uso diario:
+
+° **Para guardar manualmente en 1 solo clic:** Presionas `Ctrl + P`, escribes `Git: Commit-and-sync` y le das **Enter**. Esto guardará tus notas y las subirá a GitHub inmediatamente.
+
+° **Modo Automático:** Si no presionas nada, el complemento seguirá haciendo ese mismo trabajo solo cada 10 minutos en segundo plano.
+
+¡Tu entorno de apuntes de programación ya está listo y funcionando al 100%!
 
 
  
