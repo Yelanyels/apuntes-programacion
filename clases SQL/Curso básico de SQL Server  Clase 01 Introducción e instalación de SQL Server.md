@@ -19,4 +19,11 @@ Garantía de consistencia mediante transacciones (ACID).
 
 **Bases de datos no relacionales (NoSQL)
 
-Diseñadas para manejar grandes volumenes de datos no estructurados
+Diseñadas para manejar grandes volúmenes de datos no estructurados.
+
+No utilizan un esquema fijo.
+
+no necesariamente emplean tablas.  
+
+![[Pasted image 20261023154518.png]]
+
