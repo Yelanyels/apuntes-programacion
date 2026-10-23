@@ -10,4 +10,6 @@ Persistencia
 **Bases de datos relacionales (RDBMS)
 
 Estructura clara y bien definida.
+Facil manipulacion de datos relacionados.
+Garantia de consistencia median
 
