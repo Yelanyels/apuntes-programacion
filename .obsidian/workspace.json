@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "right": {
     "id": "d9334656abd3be88",
@@ -189,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "790da70108443466",
+  "active": "d731d9a51cb49aba",
   "lastOpenFiles": [
     "img/Pasted image 20261023075937.png",
     "clases SQL/Curso básico de SQL Server  Clase 01 Introducción e instalación de SQL Server.md",
