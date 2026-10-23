@@ -11,10 +11,14 @@
             "id": "790da70108443466",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clases SQL/Curso básico de SQL Server  Clase 01 Introducción e instalación de SQL Server.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Curso básico de SQL Server  Clase 01 Introducción e instalación de SQL Server"
             }
           }
         ]
@@ -185,8 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d731d9a51cb49aba",
+  "active": "790da70108443466",
   "lastOpenFiles": [
+    "clases SQL/Curso básico de SQL Server  Clase 01 Introducción e instalación de SQL Server.md",
+    "clases SQL",
     "img/Sin título.base",
     "plantillas/Plantilla Exito.md",
     "plantillas/Plantilla Resumen.md",
