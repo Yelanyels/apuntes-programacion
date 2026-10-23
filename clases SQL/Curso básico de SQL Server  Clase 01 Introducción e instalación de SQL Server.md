@@ -15,3 +15,8 @@ Garantía de consistencia mediante transacciones (ACID).
 
 ![[Pasted image 20261023075937.png]]
 
+**TIPOS DE DB
+
+**Bases de datos no relacionales (NoSQL)
+
+Diseñadas para manejar grandes volumenes de datos no estructurados
