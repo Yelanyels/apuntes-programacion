@@ -7,5 +7,7 @@ Persistencia
 
 **Tipos de DB
 
-*B*
+**Bases de datos relacionales (RDBMS)
+
+Estructura clara y bien definida.
 
