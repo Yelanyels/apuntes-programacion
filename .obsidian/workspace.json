@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8300045b157d2d93",
+        "id": "64ad25f3c8602a70",
         "type": "tabs",
         "children": [
           {
-            "id": "4e52a3ba13f04a92",
+            "id": "790da70108443466",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plantillas/Plantilla Exito.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Plantilla Exito"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -186,12 +182,13 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e52a3ba13f04a92",
+  "active": "d731d9a51cb49aba",
   "lastOpenFiles": [
+    "img/Sin título.base",
+    "plantillas/Plantilla Exito.md",
     "plantillas/Plantilla Resumen.md",
     "plantillas/Plantilla Diagrama Entidad Relacion.md",
     "plantillas/Plantilla Comparativa.md",
@@ -209,7 +206,6 @@
     "plantillas/Plantilla Tarea.md",
     "plantillas/Plantilla Procedimiento.md",
     "plantillas/Plantilla Concepto.md",
-    "plantillas/Plantilla Exito.md",
     "plantillas/Plantilla Codigo.md",
     "plantillas",
     "img/Sin título 2026-10-22 14.40.25.excalidraw.md",

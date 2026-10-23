@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📔",
       "LiImage",
       "LiBookTemplate"
     ],
@@ -32,5 +33,6 @@
     "useInternalPlugins": false
   },
   "plantillas": "LiBookTemplate",
-  "img": "LiImage"
+  "img": "LiImage",
+  "01-instrucciones para instalacion.md.md": "📔"
 }
