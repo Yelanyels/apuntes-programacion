@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases SQL/Curso básico de SQL Server  Clase 01 Introducción e instalación de SQL Server.md",
+                "file": "clases SQL/Curso de Base de Datos PostgreSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso básico de SQL Server  Clase 01 Introducción e instalación de SQL Server"
+              "title": "Curso de Base de Datos PostgreSQL"
             }
           }
         ]
@@ -193,7 +193,7 @@
   "lastOpenFiles": [
     "img/Pasted image 20261023154518.png",
     "img/Pasted image 20261023075937.png",
-    "clases SQL/Curso básico de SQL Server  Clase 01 Introducción e instalación de SQL Server.md",
+    "clases SQL/Curso de Base de Datos PostgreSQL.md",
     "clases SQL",
     "img/Sin título.base",
     "plantillas/Plantilla Exito.md",
