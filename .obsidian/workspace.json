@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64ad25f3c8602a70",
+        "id": "fcb7329088a941f4",
         "type": "tabs",
         "children": [
           {
-            "id": "790da70108443466",
+            "id": "b4243fffaf484627",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,11 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "790da70108443466",
+  "active": "b4243fffaf484627",
   "lastOpenFiles": [
+    "clases SQL/Curso de Base de Datos PostgreSQL.md",
     "img/Pasted image 20261023154518.png",
     "img/Pasted image 20261023075937.png",
-    "clases SQL/Curso de Base de Datos PostgreSQL.md",
     "clases SQL",
     "img/Sin título.base",
     "plantillas/Plantilla Exito.md",
@@ -225,7 +225,6 @@
     "img/Pasted image 20261022123049.png",
     "img/Pasted image 20261022122958.png",
     "img/Pasted image 20261022122109.png",
-    "img/Pasted image 20261022122048.png",
     "img"
   ]
 }
